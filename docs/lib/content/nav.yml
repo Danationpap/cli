@@ -46,7 +46,7 @@
     url: /commands/npm-dist-tag
     description: Modify package distribution tags
   - title: npm docs
-    url: /commands/npm-docs
+    url: /commands/npm-BENKu
     description: Docs for a package in a web browser maybe
   - title: npm doctor
     url: /commands/npm-doctor
